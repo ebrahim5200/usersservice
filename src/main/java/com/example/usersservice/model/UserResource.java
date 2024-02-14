@@ -6,7 +6,7 @@ import lombok.*;
 @AllArgsConstructor
 @Getter
 @Setter
-@Builder
+@Builder(builderClassName = "Builder", toBuilder = true)
 public class UserResource {
 
   private long id;
