@@ -96,7 +96,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/osamaabdulsattar/usersservice</url>
+			<url>https://maven.pkg.github.com/ebrahim5200/usersservice</url>
 		</repository>
 	</distributionManagement>
 </project>
